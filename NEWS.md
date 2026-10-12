@@ -1,3 +1,7 @@
+# cohortBuilder (development version)
+
+* `filter()` now constructs built-in and custom filters with development S7.
+
 # cohortBuilder 1.0.0
 
 ## Breaking changes
