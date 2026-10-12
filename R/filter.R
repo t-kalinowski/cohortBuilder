@@ -85,8 +85,8 @@ CbFilter <- S7::new_class("CbFilter",
     description = S7::class_any,
     domain = S7::new_property(S7::class_any, default = NULL),
     step_id = S7::new_property(S7::class_any, default = NULL),
-    extra = S7::new_property(S7::class_any, default = quote(list())),
-    private = S7::new_property(S7::class_any, default = quote(list()))
+    extra = S7::new_property(S7::class_any, default = list()),
+    private = S7::new_property(S7::class_any, default = list())
   )
 )
 
