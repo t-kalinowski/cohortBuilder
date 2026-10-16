@@ -58,4 +58,5 @@ VignetteBuilder: knitr
 URL: https://github.com/r-world-devs/cohortBuilder/,  https://r-world-devs.github.io/cohortBuilder/
 Depends:
     R (>= 4.1.0)
-Config/roxygen2/version: 8.1.1
+Config/roxygen2/version: 8.0.0
+RoxygenNote: 7.3.3
